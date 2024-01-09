@@ -7,7 +7,7 @@ For this project, you’ll design the tables to hold the data from the CSV files
 # data folder
 Contains all necessary csv files used for this assignment. They are used to create the quickDBD entity relationship diagram, as well as the quickDBD schema.
 
-# employeesSQL folder
+# employeeSQL folder
 Contains all necessary files for completion of this assignment
 * quickDBD_ERD_image
   - after analyzing the csv files, an ERD (entity relationship diagram) of said csv files was created using quickDBD
